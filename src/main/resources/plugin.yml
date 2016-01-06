@@ -1,0 +1,7 @@
+main: me.tomthedeveloper.referafriend.ReferAFriend
+version: 1.0
+name: ReferAFriend
+commands:
+  refer:
+    description: Use this command to refer your friend
+    usage: /refer

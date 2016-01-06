@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReferAFriend:jar">
+    <output-path>$USER_HOME$/Documents/Server/TestingServer/plugins</output-path>
+    <root id="archive" name="ReferAFriend.jar">
+      <element id="module-output" name="ReferAFriend" />
+    </root>
+  </artifact>
+</component>
